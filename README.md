@@ -3,6 +3,11 @@ An interactive Streamlit chatbot that recommends movies from a local dataset usi
 
 **Purpose**: Help users find a movie by genre, actor/director, runtime, year and IMDB votes — via a friendly conversational UI.
 
+# How it Looks
+<img width="729" height="387" alt="image" src="https://github.com/larsyarafina/movies_recommendation_chatbot/blob/main/movies_chatbot.png" />
+<img width="729" height="387" alt="image" src="https://github.com/larsyarafina/movies_recommendation_chatbot/blob/main/romance_movies.png" />
+
+
 # 💡 GenAI, LLMs, LangChain 
 * What is GenAI?
 Generative AI (GenAI) refers to models that can generate text, images, audio, or other content given a prompt. Gemini (by Google) is a family of GenAI models optimized for conversational text generation.
